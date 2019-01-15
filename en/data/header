@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="UTF-8">
+		
+		<title>turtlescript</title>
+		
+		<meta name="keywords" content="turtlescript">
+		<meta name="description" content="turtlescript ist eine interpretierte Skriptsprache, die dazu entwickelt wurde &uuml;bersichtlich Daten zu beinhalten.">
+		
+		<meta name="author" content="Marek K. <m.k@mk16.de>">
+		<meta name="web_author" content="Marek K. <m.k@mk16.de>">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="robots" content="index, follow">
+		
+		<link rel="icon" type="image/png" href="/img/turtle.png">
+		<link rel="icon" type="image/x-icon" href="/img/turtle.ico">
+		
+		<link rel="shortcut icon" type="image/png" href="/img/turtle.png">
+		<link rel="shortcut icon" type="image/x-icon" href="/img/turtle.ico">
+		
+		<link rel="stylesheet" type="text/css" href="/css/layout.css">
+	</head>
+	<body>
+		<header>
+			<a href="./" id="itlogo"><img src="/img/turtle.png" alt=""></a>
+						
+			<ul id="menu">
+				<li>(<a href="/de/">DE</a>)</li>
+				<li><a href="./">Home</a></li>
+				<li><a href="./syntax">Syntax</a></li>
+				<li><a href="./tutorial">Tutorial</a></li>
+				<li><a href="./interpreter">Interpreter</a></li>
+				<li><a href="./privacy">Datenschutz / Privacy</a></li>
+				<li><a href="./imprint">Impressum / Imprint</a></li>
+			</ul>
+			
+			<p id="menulist1"></p>
+			<p id="menulist2"></p>
+			
+			<h1>turtlescript</h1>
+			<h3>turtlescript is an interpreted scripting language that was developed to contain clear data.</h3>
+			
+			<br>
+		</header>
+		<main>
+			

@@ -1,0 +1,90 @@
+@charset UTF-8;
+
+#index, #index_alist, .center {
+	text-align: center;
+}
+
+main {
+	background-color: #b3ffb3;
+	margin: 0px;
+	padding: 10px;
+	font-family: Helvetica;
+}
+
+header {
+	background-color: #00cc00;
+	text-align: center;
+	/* font-family: Lucida Console; */
+	/* font-family: Helvetica; */
+	font-family: Courier New;
+	margin: 0px;
+}
+
+header h1 {
+	background-color: green;
+	margin: 0px;
+	padding: 10%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 60px;
+	display: inline-block;
+	border-radius: 10px;
+}
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #b3ffb3;
+}
+
+#menu {
+	list-style-type: none;
+	margin: 2px;
+	padding: 5px;
+	overflow: hidden;
+	background-color: orange;
+	display: inline-block;
+	right: 0;
+	top: 0;
+	position: fixed;
+	z-index: 99;
+}
+
+#menu li {
+	float: left;
+	padding: 3px;
+	margin: 2px;
+}
+
+#itlogo img {
+	width: 75px;
+	z-index: 98;
+}
+
+#itlogo {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 98;
+	margin-top: -15px;
+}
+
+#menulist1 {
+	height: 45px;
+	background-color: orange;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	z-index: 50;
+}
+
+#menulist2 {
+	background-color: orange;
+	z-index: 55;
+	top: 0;
+	margin: 0px;
+	padding: 0px;
+	height: 45px;
+	width: 100%;
+	position: fixed;
+}
